@@ -1,0 +1,1 @@
+export declare const rootRoute: import("@tanstack/react-router").RootRoute<import("@tanstack/react-router").RootSearchSchema, import("@tanstack/react-router").RootSearchSchema, import("@tanstack/react-router").RootSearchSchema, import("@tanstack/react-router").RouteContext, import("@tanstack/react-router").RouteContext, {}, {}, unknown, unknown>;
